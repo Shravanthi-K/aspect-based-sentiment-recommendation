@@ -1,3 +1,4 @@
+![Release](https://img.shields.io/github/v/release/YOUR_USERNAME/aspect-based-sentiment-recommendation?style=for-the-badge)
 # 🌟 Aspect-Based Sentiment Recommendation System
 
 🔍 **An NLP-based system that extracts aspects from text and analyzes sentiment for each aspect to generate meaningful insights and recommendations.**
